@@ -8,3 +8,16 @@ I have developed an interactive **Power BI Sales Analytics Dashboard** that anal
     <img src="https://img.shields.io/badge/✨%20View%20Project-6C63FF?style=for-the-badge&logoColor=white" alt="View Project">
   </a>
 </p>
+
+## 📊 [E-Commerce Sales Analysis] (https://github.com/saqib-malik-data-analyst/Ecommerce-Sales-Analysis)
+
+## Overview
+This project showcases an interactive **Power BI E-commerce Sales Analytics Dashboard** designed to analyze key business metrics including **Sales, Quantity, Average Unit Price, and Customers**.
+
+The dashboard provides insights into sales trends, customer performance, product demand, pricing patterns, and geographic distribution.
+
+<p align="center">
+  <a href="https://github.com/saqib-malik-data-analyst/Ecommerce-Sales-Analysis">
+    <img src="https://img.shields.io/badge/✨%20View%20Project-6C63FF?style=for-the-badge&logoColor=white" alt="View Project">
+  </a>
+</p>
